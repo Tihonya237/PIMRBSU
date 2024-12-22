@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Alex\source\repos\paral\paral\main.cpp(24,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ParalSolver.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 300 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  paral.vcxproj -> C:\Users\Alex\source\repos\paral\x64\Release\paral.exe
